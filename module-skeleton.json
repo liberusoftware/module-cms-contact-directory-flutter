@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-contact-directory-flutter",
+  "capabilityKey": "liberusoftware/module-cms-contact-directory",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_contact_directory_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/contact-directory.md",
+  "presentationPlan": "projects/cms/flutter/contact-directory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
